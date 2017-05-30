@@ -20,13 +20,13 @@ Here's a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 pwd - Show current working directory
-mkdir <dir name> - create a directory
-rm -r <dir name> - delete a directory
-rm <file name> - delete a file
+mkdir - create a directory
+rm -r - delete a directory
+rm - delete a file
 touch - create a file
-mv <file name> <new file name> - rename a file
+mv - rename a file
 ls -a - list all hidden files
-cp <source file name> <target file name> - copy a file
+cp - copy a file
 cd .. - change directory to parent directory
 clear - clear terminal screen
 
