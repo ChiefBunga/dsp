@@ -28,7 +28,7 @@ mv <file name> <new file name> - rename a file
 ls -a - list all hidden files
 cp <source file name> <target file name> - copy a file
 cd .. - change directory to parent directory
-> - redirect output to file
+clear - clear terminal screen
 
 ---
 
