@@ -57,7 +57,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+`ls -o` Long list without group names  
+`ls -g` Long list witout owner name  
+`ls -R` lists al subdirectories as well
+`ls -1` displays each list entry on a line
+`ls -m` dsiplays names as a comma seperated list
 
 ---
 
