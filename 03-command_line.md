@@ -19,16 +19,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-'''pwd''' - Show current working directory  
-'mkdir' - create a directory  
-'rm -r' - delete a directory  
-'rm' - delete a file  
-'touch' - create a file  
-'mv' - rename a file  
-'ls -a' - list all hidden files  
-'cp' - copy a file  
-'cd ..' - change directory to parent directory  
-'clear' - clear terminal screen  
+`pwd` - Show current working directory  
+`mkdir` - create a directory  
+`rm -r` - delete a directory  
+`rm` - delete a file  
+`touch` - create a file  
+`mv` - rename a file  
+`ls -a` - list all hidden files  
+`cp` - copy a file  
+`cd ..` - change directory to parent directory  
+`clear` - clear terminal screen  
 
 ---
 
@@ -43,13 +43,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-'ls' lists all files and directories in current working folder
-'ls -a' lists all files inlcluding hidden files
-'ls -l' long list of files
-'ls -lh' long list of files in human readable format
-'ls -lah' long list of files, including hidden files, in human readable format
-'ls -t' lists files and directories in order by date/time of last modification
-'ls -Glp' long list of files with directory names in color and appended with '/'
+`ls` lists all files and directories in current working folder
+`ls -a` lists all files inlcluding hidden files
+`ls -l` long list of files
+`ls -lh` long list of files in human readable format
+`ls -lah` long list of files, including hidden files, in human readable format
+`ls -t` lists files and directories in order by date/time of last modification
+`ls -Glp` long list of files with directory names in color and appended with '/'
 
 ---
 
