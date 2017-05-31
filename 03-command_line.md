@@ -43,12 +43,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
 'ls' lists all files and directories in current working folder
 'ls -a' lists all files inlcluding hidden files
 'ls -l' long list of files
 'ls -lh' long list of files in human readable format
+'ls -lah' long list of files, including hidden files, in human readable format
+'ls -t' lists files and directories in order by date/time of last modification
+'ls -Glp' long list of files with directory names in color and appended with '/'
+
 ---
 
 ### Q3.  More List Files in Unix  
